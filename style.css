@@ -234,3 +234,28 @@ footer{
   color: #4f76b0;
   text-decoration: none;
 }
+
+#resume-pic{
+  background-color: red;
+  height: 200px;
+  width: 100px;
+}
+
+/*Matanda's code*/
+
+#contact-button{
+  background: none;
+  border: 2px solid #4f76b0;
+  border-radius: 5px;
+  font-size: 15pt;
+  color: #4f76b0;
+}
+
+#contact-button:hover{
+  background: none;
+  background-color: #B8D8D8;
+  border: 2px solid #4f76b0;
+  border-radius: 5px;
+  font-size: 15pt;
+  color:white;
+}
